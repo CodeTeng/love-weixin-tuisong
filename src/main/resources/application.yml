@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: wx-push
+server:
+  port: 8081
+

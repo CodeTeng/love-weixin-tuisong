@@ -1,0 +1,13 @@
+{{localDate.DATA}}
+{{remark.DATA}}
+天气：{{wea.DATA}}
+当前温度：{{tem.DATA}} 度
+最低温度：{{tem2.DATA}} 度
+最高温度：{{tem1.DATA}} 度
+今天是我们恋爱的第 {{love.DATA}} 天
+距离你的生日还有 {{birthday.DATA}} 天
+
+{{caihongpi.DATA}}
+{{jinju.DATA}}
+
+今天也是超级想你的一天！
